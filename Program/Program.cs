@@ -22,7 +22,7 @@ class Program
         
         var student = new Student(studentFirstName, studentLastName);
         var teacher = new Teacher(teacherFirstName, teacherLastName); //Правим нова променлива студент и преподавател, за да може след като се съхранят, да може да се извикат директно от класовете.
-        Console.WriteLine();
+        Console.WriteLine();//слагам нещо като брейк
         Console.WriteLine();
         Console.WriteLine($"Welcome, {teacher.FirstName} {teacher.LastName} to the chat room!"); // Отпечатват се някакви съобщения, за да се знае какво става.
         Console.WriteLine($"{teacher.FirstName}, you are now chatting with {student.FirstName} {student.LastName}");
