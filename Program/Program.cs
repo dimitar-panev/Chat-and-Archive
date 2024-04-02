@@ -24,7 +24,7 @@ class Program
         var teacher = new Teacher(teacherFirstName, teacherLastName); //Правим нова променлива студент и преподавател, за да може след като се съхранят, да може да се извикат директно от класовете.
         Console.WriteLine();
         Console.WriteLine();
-        Console.WriteLine($"Welcome, {teacher.FirstName} {teacher.LastName} to the chat room!");
+        Console.WriteLine($"Welcome, {teacher.FirstName} {teacher.LastName} to the chat room!"); // Отпечатват се някакви съобщения, за да се знае какво става.
         Console.WriteLine($"{teacher.FirstName}, you are now chatting with {student.FirstName} {student.LastName}");
         Console.WriteLine($"Type 'exit' to stop chatting(Both persons need to type exit)");
         while (true) // създаваме while, за да може двамата да си комуникират и за да има някакъв начин чатът да спре(или съобщение след всеки два отговора, или просто, като се напише exit)
