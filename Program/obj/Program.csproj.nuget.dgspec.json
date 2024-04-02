@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitko\\RiderProjects\\TermFree\\Program\\Program.csproj": {}
+    "C:\\Users\\mitko\\Desktop\\Уни\\Object Oriented Programming\\Chat-and-Archive\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mitko\\RiderProjects\\TermFree\\Program\\Program.csproj": {
+    "C:\\Users\\mitko\\Desktop\\Уни\\Object Oriented Programming\\Chat-and-Archive\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitko\\RiderProjects\\TermFree\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\mitko\\Desktop\\Уни\\Object Oriented Programming\\Chat-and-Archive\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\mitko\\RiderProjects\\TermFree\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\mitko\\Desktop\\Уни\\Object Oriented Programming\\Chat-and-Archive\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\mitko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitko\\RiderProjects\\TermFree\\Program\\obj\\",
+        "outputPath": "C:\\Users\\mitko\\Desktop\\Уни\\Object Oriented Programming\\Chat-and-Archive\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mitko\\AppData\\Roaming\\NuGet\\NuGet.Config",
