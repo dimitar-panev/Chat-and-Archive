@@ -41,10 +41,6 @@ class Program
             {
                 break;
             }
-            else
-            {
-                Console.WriteLine("bad input");
-            }
         }
         
         
